@@ -1,4 +1,6 @@
-<h1 align="left">Hi 🙋‍♂️ , I’m Ayush Kanani..</h1>
+<script src="https://kit.fontawesome.com/c6a0b95e5c.js" crossorigin="anonymous"></script>
+
+<h1 align="left">Hi 🙋‍♂️ , I’m Ayush Kanani.</h1>
 <h3 align="left">A passionate hustler.</h3>
 
 - 👀 I’m interested in **Web Development.**
