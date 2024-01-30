@@ -1,4 +1,7 @@
 <h1 align="left">Hi 🙋‍♂️ , I’m Ayush Kanani.</h1>
+<div id = "counter">
+<img src="https://komarev.com/ghpvc/?username=harshil048&style=flat-square&color=blue" alt=""/>
+</div>
 <h3 align="left">A passionate hustler.</h3>
 
 - 👀 I’m interested in **Web Development.**
