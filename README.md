@@ -4,7 +4,7 @@
 </div>
 <h3 align="left">A passionate hustler.</h3>
 
-- 👀 I’m interested in **Web Development.**
+- 👀 I’m interested in **MERN Stack Development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
