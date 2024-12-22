@@ -10,7 +10,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ayush-kanani-b541a9224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kanani" height="30" width="40" /></a>
-<a href="https://twitter.com/ayushkanani711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkanani711" height="30" width="40" /></a>
+<a href="https://twitter.com/ayushkanani_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushkanani_07" height="30" width="40" /></a>
 
 <h3 align="left">Coading Profiles:</h3>
 <p align="left">
