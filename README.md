@@ -36,6 +36,6 @@
   
 <!-- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="react" width="40" height="40"/> </a>  -->
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,js,vite,redux,html,css,c,cpp,bootstrap,materialui,tailwind,postman,prisma,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,vite,redux,html,css,c,cpp,bootstrap,materialui,tailwind,postman,prisma,mongodb,mysql)](https://skillicons.dev)
   
 </p>
